@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hi everyone 
+I like java and oracle .
